@@ -1,5 +1,5 @@
 # Team 8 PCB Repository
-## PCBs Designed by Bram Banik 
+PCBs Designed by Bram Banik 
 
 ### A repository containing all the PCBs for Team 8's Robot Summer autonomous pet-retrieving robot. Includes:
 #### Switch Debouncing Unit
